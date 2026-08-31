@@ -51,30 +51,34 @@ Además, el sistema permite realizar operaciones como:
 ```text
 📁 SistemaSpeedFast_v3/
 │
-├── 📁 src/
-│   ├── 📁 app/
-│   │   └── Main.java
-│   │
-│   ├── 📁 gestores/
-│   │   └── ControladorDeEnvios.java
-│   │
-│   ├── 📁 interfaces/
-│   │   ├── Cancelable.java
-│   │   ├── Despachable.java
-│   │   └── Rastreable.java
-│   │
-│   └── 📁 model/
-│       ├── Pedido.java
-│       ├── PedidoComida.java
-│       ├── PedidoEncomienda.java
-│       └── PedidoExpress.java
-│
-├── 📁 docs/
-│   └── diagrama_clases_speedfast.png
-│
-├── 📄 .gitignore
-├── 📄 SistemaSpeedFast_v3.iml
-└── 📄 README.md
+└── 📁 Semana 3/
+    │
+    └── 📁 SistemaSpeedFast_v3/
+        │
+        ├── 📁 src/
+        │   ├── 📁 app/
+        │   │   └── Main.java
+        │   │
+        │   ├── 📁 gestores/
+        │   │   └── ControladorDeEnvios.java
+        │   │
+        │   ├── 📁 interfaces/
+        │   │   ├── Cancelable.java
+        │   │   ├── Despachable.java
+        │   │   └── Rastreable.java
+        │   │
+        │   └── 📁 model/
+        │       ├── Pedido.java
+        │       ├── PedidoComida.java
+        │       ├── PedidoEncomienda.java
+        │       └── PedidoExpress.java
+        │
+        ├── 📁 docs/
+        │   └── diagrama_clases_speedfast.png
+        │
+        ├── 📄 .gitignore
+        ├── 📄 SistemaSpeedFast_v3.iml
+        └── 📄 README.md
 ```
 
 ---
