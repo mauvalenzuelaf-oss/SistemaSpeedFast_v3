@@ -224,6 +224,8 @@ El siguiente diagrama representa la estructura principal del sistema y las relac
 
 ![Diagrama de clases SpeedFast](docs/diagrama_clases_speedfast.png)
 
+[Ver imagen en tamaño completo](docs/diagrama_clases_speedfast.png)
+
 ---
 
 ## ♻️ Escalabilidad, reutilización y mantenibilidad
