@@ -269,7 +269,7 @@ git clone https://github.com/mauvalenzuelaf-oss/SistemaSpeedFast_v3.git
 4. Dentro del repositorio clonado, busca la siguiente carpeta:
 
 ```text
-semana 3/SistemaSpeedFast_v3
+Semana 3/SistemaSpeedFast_v3
 ```
 
 5. Selecciona `SistemaSpeedFast_v3` como proyecto.
